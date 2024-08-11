@@ -65,17 +65,22 @@ I split up the data into 15 groups, and assigned subject keywords associated wit
 - Omitting the use of an "Other" group in the grouping of data to better showcase trends in selected groups
 
 ### Insights
-Most insights use 1982–2012 as their timeframe, as this period provides the most reliable data. Insights from before 1982, particularly those examining percentage distributions, often show significant variations due to the limited number of publications available (See Figure 6). Overall, these insights employ various time windows to better illustrate specific trends.
+Most insights use 1970–2012 as their timeframe. Insights from before 1982, particularly those examining percentage distributions, often show significant variations due to the limited number of publications available (see Figure 6). This is why insights for 1982–2012 were also generated. Overall, these insights employ various time windows to better illustrate specific trends.
 
 Below is a collection of interesting insights gathered from the dataset created in Part 2.
 
 ---
 
-#### The popularity of AI over time
+#### The Popularity of AI Over Time
 
-In Figure 2, the growing popularity of AI over time is evident when measured by the number of works published each year. Figure 3 illustrates the early growth of AI, which began in the early 1960s and led to a significant surge of interest approaching the 1980s. 
-Figure 4 shows that this wave of interest continued until the early 1990s, when an [AI winter](https://en.wikipedia.org/wiki/AI_winter#The_setbacks_of_the_late_1980s_and_early_1990s) led to decreased interest in AI. 
-After 2005, AI's popularity began to [resemble exponential growth](https://www.reddit.com/r/singularity/comments/xwdzr5/the_number_of_ai_papers_on_arxiv_per_month_grows/).
+AI's popularity has evolved significantly over the decades, as measured by the number of works published each year. Various trends highlight the field's growth and challenges.
+
+Some key trends identified:
+
+- AI began to gain traction in the early 1960s, leading to a significant surge of interest approaching the 1980s (Figure 3)
+- Interest in AI continued to grow through the 1980s, reaching a peak in the early 1990s (Figure 4)
+- The early 1990s saw an [AI winter](https://en.wikipedia.org/wiki/AI_winter#The_setbacks_of_the_late_1980s_and_early_1990s), resulting in decreased interest in AI (Figure 4)
+- After 2005, AI's popularity began to [resemble exponential growth](https://www.reddit.com/r/singularity/comments/xwdzr5/the_number_of_ai_papers_on_arxiv_per_month_grows/)
 
 ![Figure 2: Distribution of Categories in Works related to AI (1970-2012)](part3/charts/count_area_chart/count_area_chart_1970_2012.png)
 Figure 2: *Number of works published in each group by year (1970-2012) showing the popularity of AI over time*
