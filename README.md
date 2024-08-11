@@ -45,9 +45,9 @@ I split up the data into 15 groups, and assigned subject keywords associated wit
 7. Healthcare and Medicine
 8. Human-Computer Interaction and User Experience
 9. Information Systems and Technology
-10. Natural Langauge Processing and Lingustics
+10. Natural Language Processing and Linguistics
 11. Neural Networks and Evolutionary Computation
-12. Philosophy amd Ethics
+12. Philosophy and Ethics
 13. Robotics and Automation
 14. Science Fiction and Literature
 15. Security and Privacy
@@ -95,11 +95,11 @@ A percentage distribution provides a more accurate indication of the relative po
 Some interesting trends identified:
 - The use of AI within Security is a growing field, starting in the late 1990s (Figure 7)
 - The use of AI for Datamining was really popular in the late 1990s / early 2000s, but is seeing a dropoff in popularity (Figure 8)
-- The use of AI for Database Management has seen a continously growing popularity since the 1980s (Figure 9)
+- The use of AI for Database Management has seen a continuously growing popularity since the 1980s (Figure 9)
 - Work on Neural Networks was very popular in the 1990s, but has since dropped off (Figure 10)
-- Philisophical work on AI was very popular in the 1990s, but has since dropped off (Figure 11)
+- Philosophical work on AI was very popular in the 1990s, but has since dropped off (Figure 11)
 - Science Fiction / Literature about AI was really mainstream in the early 2000s, but has since dropped off (Figure 12)
-- Natural Language Processing (NLP) and Lingustics has seen a decline in popularity since its peak in the 1970s (Figure 13)
+- Natural Language Processing (NLP) and Linguistics has seen a decline in popularity since its peak in the 1970s (Figure 13)
 - Computer Vision and Image Processing has seen a decline in popularity since its peak in the 1970s (Figure 14)
 
 It's important to note that these trends in AI subject popularity do not directly reflect the current usage or discussion of these topics. Instead, they highlight periods when significant work was conducted on certain topics. 
