@@ -24,7 +24,7 @@ I approached this part by including books which had `"lord of the rings"` in the
 ## Part 2 - Artificial Intelligence (AI) 🤖🧠
 Here I made use of the [Subjects API](https://openlibrary.org/dev/docs/api/subjects) to create a dataset of works which tagged `"artificial intelligence"` as one of their associated subjects.
 
-**Data about the books added to the CSV:**
+**Data about the works added to the CSV:**
 - Title
 - Author(s)
 - Publish Year
